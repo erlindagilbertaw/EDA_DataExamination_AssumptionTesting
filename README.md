@@ -140,7 +140,7 @@ ___
 Non-linear relationships can show a strong correlation at the Pearson Correlation r value. However, Pearson's r is less precise in interpreting the strength of the relationship between variables. Other methods can be used to obtain more accurate curvilinear correlation results.
 
 ___
-## REFERENCE
+## REFERENCES
 > Hair Jr., J.F., Black, W.C., Babin, B.J., dan Anderson, R.E. (2014). Multivariate Data Analysis. Edisi 7. Amerika: Pearson Education.
 
 > Hendrawati, T. (2015). Kajian Metode Imputasi Dalam Menangani Missing Data. Proceedings of the 2015 UMS National Seminar on 	Mathematics and Mathematics Education, pp. 637-642.
