@@ -25,6 +25,7 @@
 <img src="https://github.com/user-attachments/assets/1311dc05-d9e9-4e77-8042-d84b3be545dd" alt="Foto Erlinda" width="150" style="border:none;"/>
 
 <img src="https://github.com/user-attachments/assets/23fd21e8-219b-4aae-9a5f-f169bee7041b" alt="EDA_Assumption_Image1" width="150" style="border:none;"/>
+<img src="https://github.com/user-attachments/assets/23fd21e8-219b-4aae-9a5f-f169bee7041b" alt="EDA_Assumption_Image1" width="150" style="border:none;"/>
   
 <table style="text-align:left;">
 <tr>
