@@ -3,42 +3,57 @@
 <table style="text-align:left;">
 <tr>
 <td style="vertical-align: top; padding-right: 20px;">
-  <img src="https://github.com/user-attachments/assets/6cde8ceb-f001-4cc4-b998-fed4bf727863" alt="Foto Erlinda" width="150" style="border:none;"/>
+  <img src="https://github.com/user-attachments/assets/6cde8ceb-f001-4cc4-b998-fed4bf727863" 
+       alt="Foto Erlinda" width="150" style="border:none;"/>
 </td>
+
 <td style="vertical-align: top;">
 
-  <h2 style="margin:0; text-align:left; font-size:30px;">Authors:, M.T.</h2>
-</h2>
+  <h2 style="margin:0; text-align:left; font-size:30px;">Author</h2>
 
-  <h2 style="margin:0; text-align:left; font-size:30px;">Ir. Erlinda Gilberta Wibawa, S.T., M.T.</h2>
+  <h2 style="margin:0; text-align:left; font-size:30px;">
+    Ir. Erlinda Gilberta Wibawa, S.T., M.T.
+  </h2>
 
   <p style="margin:0; text-align:left; font-size:23px;">
-    <a href="https://www.instagram.com/erlinda_gilberta/?hl=en" target="_blank">@erlinda_gilberta</a>
+    <a href="https://www.instagram.com/erlinda_gilberta/?hl=en" target="_blank">
+      @erlinda_gilberta
+    </a>
   </p>
 
   <h4 style="margin-top:5px; text-align:left; font-size:23px;">
-    <em>Lecturer in Logistics Engineering,<br>
-    Universitas Katolik Santo Agustinus Hippo,<br>
-    West Kalimantan, Indonesia</em>
+    <em>
+      Lecturer in Logistics Engineering,<br>
+      Universitas Katolik Santo Agustinus Hippo,<br>
+      West Kalimantan, Indonesia
+    </em>
   </h4>
 
 </td>
 </tr>
 </table>
 
+<br>
+
 <table style="text-align:left;">
 <tr>
 <td style="vertical-align: top; padding-right: 20px;">
-  <img src="https://github.com/user-attachments/assets/6cde8ceb-f001-4cc4-b998-fed4bf727863" alt="Foto Yosephine Suharyanti" width="150" style="border:none;"/>
+  <img src="https://github.com/user-attachments/assets/6cde8ceb-f001-4cc4-b998-fed4bf727863" 
+       alt="Foto Yosephine Suharyanti" width="150" style="border:none;"/>
 </td>
+
 <td style="vertical-align: top;">
 
-  <h2 style="margin:0; text-align:left; font-size:30px;">Dr. Ir. Yosephine Suharyanti, S.T., M.T.</h2>
+  <h2 style="margin:0; text-align:left; font-size:30px;">
+    Dr. Ir. Yosephine Suharyanti, S.T., M.T.
+  </h2>
 
   <h4 style="margin-top:5px; text-align:left; font-size:23px;">
-    <em>Lecturer in Industrial Engineering Engineering,<br>
-    Universitas Atma Jaya Yogyakarta,<br>
-    Yogyakarta, Indonesia</em>
+    <em>
+      Lecturer in Industrial Engineering,<br>
+      Universitas Atma Jaya Yogyakarta,<br>
+      Yogyakarta, Indonesia
+    </em>
   </h4>
 
 </td>
