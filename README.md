@@ -65,7 +65,16 @@ EDA is the initial stage in data analysis that aims to understand patterns, dete
 
 This study aims to analyze the importance of data examination and assumption testing in preparing datasets to be statistically feasible. This study is expected to improve the quality of data analysis, so that data-based decision making becomes more accurate and valid.
 
-<img src="https://github.com/user-attachments/assets/5fb18790-1c38-4f29-8bca-4191046e0d16" alt="Image1" width="1000"/>
+<script src="https://cdn.jsdelivr.net/npm/medium-zoom/dist/medium-zoom.min.js"></script>
+
+<img src="https://github.com/user-attachments/assets/5fb18790-1c38-4f29-8bca-4191046e0d16" width="1000">
+
+<script>
+mediumZoom('img', {
+  margin: 24,
+  background: '#000'
+})
+</script>
 
 **Conceptuan Framework of the Study**<BR>
 **Source:** Author's documentation
