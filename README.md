@@ -92,6 +92,7 @@ Data examination begins by conducting a Normality Test to determine the normalit
 <img src="https://github.com/user-attachments/assets/5f51ca64-a9d8-4761-adcf-22a4a3e87fd8" alt="Table2" width="500"/>
 
 **Source:** Author's documentation
+
 ___
 ## 3. MISSING VALUES
 In this case, it is assumed that missing values ​​cannot be ignored because they are known to originate from errors in completing the entire questionnaire.
